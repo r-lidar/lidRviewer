@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-Wall -g -O2 -I/opt/homebrew/include -I/opt/homebrew/include/SDL2 -D_THREAD_SAFE -DGL_SILENCE_DEPRECATION
+PKG_LIBS=-L/opt/homebrew/lib -lSDL2main -lSDL2 -framework Cocoa -framework OpenGL

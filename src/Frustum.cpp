@@ -13,7 +13,7 @@
 //***********************************************************************//
 
 #include "Frustum.h"
-#include <GL/gl.h>
+#include <OpenGL/gl.h>
 #include <math.h>
 
 // We create an enum of the sides so we don't have to call each side 0 or 1.

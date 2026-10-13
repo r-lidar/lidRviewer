@@ -4,8 +4,8 @@
 #include <chrono>
 #include <random>
 
-#include <GL/gl.h>
-#include <GL/glu.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
 
 const std::vector<std::array<unsigned char, 3>> zgradient = {
   {0, 0, 255},

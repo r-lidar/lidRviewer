@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-#include <GL/glu.h>
+#include <OpenGL/glu.h>
 
 static bool InvertMatrix(const GLfloat m[16], GLfloat invOut[16])
 {
